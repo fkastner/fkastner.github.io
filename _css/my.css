@@ -46,7 +46,7 @@ html {
 /* show lightbox when it is the target */
 .lightbox {
   display: none;
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(255, 255, 255, 0.9);
   position: fixed;
   z-index: 500;
   top: 0;
