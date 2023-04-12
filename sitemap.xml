@@ -8,31 +8,7 @@
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://fkastner.github.io/franklin/menu2/index.html</loc>
-    <lastmod>2023-04-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
     <loc>https://fkastner.github.io/index.html</loc>
-    <lastmod>2023-04-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://fkastner.github.io/franklin/menu3/index.html</loc>
-    <lastmod>2023-04-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://fkastner.github.io/franklin/menu1/index.html</loc>
-    <lastmod>2023-04-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://fkastner.github.io/franklin/franklin/index.html</loc>
     <lastmod>2023-04-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -51,12 +27,6 @@
 </url>
 <url>
     <loc>https://fkastner.github.io/cv/index.html</loc>
-    <lastmod>2023-04-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://fkastner.github.io/old_index/</loc>
     <lastmod>2023-04-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
