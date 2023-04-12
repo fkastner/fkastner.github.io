@@ -1,0 +1,32 @@
+<body class="layout--single">
+  {{ insert masthead.html }}
+  <div class="initial-content">
+    <!-- avatar lightbox -->
+    <a href="#_" class="lightbox" id="avatar">
+      <img src="/assets/banana_square.webp" alt="Banana, square">
+    </a>
+    <div id="main" role="main">
+      <div class="sidebar sticky">
+        <div itemscope itemtype="https://schema.org/Person">
+          <div class="author__avatar">
+            <a href="#avatar">
+              <img src="/assets/banana_square.webp" alt="Banana, square" itemprop="image">
+            </a>
+          </div>
+          <div class="author__content">
+            <h3 class="author__name" itemprop="name">Felix Kastner</h3>
+            <p class="author__bio" itemprop="description">PhD student</p>
+          </div>
+          <div class="author__urls-wrapper">
+            <button class="btn btn--inverse">Follow</button>
+            <ul class="author__urls social-icons">
+              <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
+                <i class="fa-solid fa-fw fa-location-dot" aria-hidden="true"></i> <span itemprop="name">Lübeck, Germany</span></li>
+              <li><a href="mailto:kastner@math.uni-luebeck.de" rel="nofollow noopener noreferrer"><i class="fa-solid fa-fw fa-envelope" aria-hidden="true"></i> Email</a></li>
+              <li><a href="https://github.com/fkastner" rel="nofollow noopener noreferrer"><i class="fa-brands fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+              <li><a href="https://orcid.org/0000-0003-0504-6211" rel="nofollow noopener noreferrer"><i class="ai ai-fw ai-orcid" aria-hidden="true"></i> ORCID</a></li>
+              <li><a href="https://scholar.google.com/citations?user=krCP4ykAAAAJ" rel="nofollow noopener noreferrer"><i class="fa-solid fa-fw fa-graduation-cap" aria-hidden="true"></i> Google Scholar</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
