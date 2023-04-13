@@ -3252,11 +3252,11 @@ body:hover .visually-hidden button {
 .social-icons .fa-foursquare {
   color: #0072b1;
 }
-.social-icons .fa-github,
+/* .social-icons .fa-github,
 .social-icons .fa-github-alt,
 .social-icons .fa-github-square {
   color: #171516;
-}
+} */
 .social-icons .fa-gitlab {
   color: #e24329;
 }
