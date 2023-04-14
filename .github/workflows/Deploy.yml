@@ -15,10 +15,10 @@ jobs:
       with:
         persist-credentials: false
     # NOTE: Python is necessary for the pre-rendering (minification) step
-    - name: Install python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.8'
+    #- name: Install python
+    #  uses: actions/setup-python@v4
+    #  with:
+    #    python-version: '3.8'
     # NOTE: Here you can install dependencies such as matplotlib if you use
     # packages such as PyPlot.
     # - run: pip install matplotlib
@@ -38,7 +38,7 @@ jobs:
             using Pkg; Pkg.activate("."); Pkg.instantiate();
             using NodeJS; run(`$(npm_cmd()) install highlight.js`);
             using Franklin;
-            optimize()'
+            optimize(minify=false)'
     - name: Build and Deploy
       uses: JamesIves/github-pages-deploy-action@v4
       with:
