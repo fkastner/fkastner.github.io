@@ -67,3 +67,10 @@ html {
   max-height: 100%;
   height: auto;
 }
+
+/* show urls if follow button has focus */
+.btn:focus ~ ul.author__urls {
+  display: block;
+  right: 50%;
+  transform: translateX(50%);
+}
