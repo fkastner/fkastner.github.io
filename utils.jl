@@ -1,20 +1,3 @@
-function hfun_bar(vname)
-    val = Meta.parse(vname[1])
-    return round(sqrt(val), digits=2)
-end
-
-function hfun_m1fill(vname)
-    var = vname[1]
-    return pagevar("index", var)
-end
-
-function lx_baz(com, _)
-    # keep this first line
-    brace_content = Franklin.content(com.braces[1]) # input string
-    # do whatever you want here
-    return uppercase(brace_content)
-end
-
 function hfun_lazycss(params)
     html = ""
     noscript = "<noscript>\n"
@@ -24,4 +7,13 @@ function hfun_lazycss(params)
     end
     noscript *= "</noscript>"
     return html*noscript
+end
+
+function hfun_canonical_url()
+    rpath = Franklin.url_curpage()
+    base = globvar("website_url") 
+    pre = globvar("prepath")
+    rpath, pre = lstrip.([rpath, pre], ['/'])
+    canonical = joinpath(base, pre, rpath)
+    return replace(canonical, r"index\.html$" => "")
 end

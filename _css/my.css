@@ -68,8 +68,8 @@ html {
   height: auto;
 }
 
-/* show urls if follow button has focus */
-.btn:focus ~ ul.author__urls {
+/* show urls if follow button or urls have focus */
+.author__urls-wrapper:focus-within .author__urls {
   display: block;
   right: 50%;
   transform: translateX(50%);
