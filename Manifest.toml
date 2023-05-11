@@ -1,6 +1,6 @@
 # This file is machine-generated - editing it directly is not advised
 
-julia_version = "1.9.0-rc2"
+julia_version = "1.9.0"
 manifest_format = "2.0"
 project_hash = "b624ff2117a370fbbc58955a02126cf4545f031e"
 
@@ -62,9 +62,9 @@ uuid = "7b1f6079-737a-58dc-b8bc-7a2ca5c1b5ee"
 
 [[deps.Franklin]]
 deps = ["Dates", "DelimitedFiles", "DocStringExtensions", "ExprTools", "FranklinTemplates", "HTTP", "Literate", "LiveServer", "Logging", "Markdown", "NodeJS", "OrderedCollections", "Pkg", "REPL", "Random", "TOML"]
-git-tree-sha1 = "0ad1e6b8f49a3fd4009ff819564af968a0a681c7"
+git-tree-sha1 = "cf933084cfae62b47de01ae536920774a54a18a6"
 uuid = "713c75ef-9fc9-4b05-94a9-213340da978e"
-version = "0.10.82"
+version = "0.10.84"
 
 [[deps.FranklinTemplates]]
 deps = ["LiveServer"]
