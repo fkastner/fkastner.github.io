@@ -2,9 +2,9 @@
 
 # Research
 
-My PhD project is about the numerical approximation of stochastic partial differential equations (SPDEs).
+My PhD project was about the numerical approximation of stochastic partial differential equations (SPDEs).
 In particular, using the mild stochastic calculus introduced by Da Prato, Jentzen and Röckner
-I prove weak convergence rates of the Milstein scheme for SPDEs.
+I proved weak convergence rates of the Milstein scheme for SPDEs.
 Weak convergence rates are necessary in many applications, for instance, when using a Multilevel Monte Carlo approach.
 
 Very related to this is my second project about iterated stochastic integrals, which are an integral part of the Milstein scheme. 
