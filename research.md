@@ -22,6 +22,7 @@ From this need arose the [LevyArea](/software#levy_area_simulation) package.
 
 ## Talks
 
+- The Iterated Integral Expansion. *Young Summer School on Stochastic Analysis*, Växjö, 11.--14. June 2025. ([Slides](/assets/files/Kastner__The_Iterated_Integral_Expansion_Slides_YSSSA25.pdf))
 - Weak convergence of a Milstein scheme for SPDEs. *Young Summer School on Stochastic Analysis*, Växjö, 26.--29. June 2024. ([Slides](/assets/files/Kastner__Weak_convergence_of_a_Milstein_scheme_for_SPDEs_Slides_YSSSA2024.pdf))
 - Iterated Integrals &mdash; and how to simulate them. *18. Doktorand:innentreffen der Stochastik*, Heidelberg, 21.--23. Aug. 2023. ([Slides](/assets/files/Kastner__Iterated_Integrals_and_how_to_simulate_them_Slides_Doktorandinnentreffen2023.pdf))
 - Weak convergence of a Milstein scheme for SPDEs. *SPDEvent*, Bielefeld, 7.--9. Sept. 2022. ([Slides](/assets/files/Kastner__Weak_convergence_of_a_Milstein_scheme_for_SPDEs_Slides_SPDEvent2022.pdf))
