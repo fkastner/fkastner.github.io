@@ -18,10 +18,12 @@ From this need arose the [LevyArea](/software#levy_area_simulation) package.
 
 ## Papers
 
+- Kastner, F., Klioba, K.: Milstein-type schemes for hyperbolic SPDEs. ([arXiv](https://arxiv.org/abs/2512.19647))
 - Kastner, F., Rößler, A.: An analysis of approximation algorithms for iterated stochastic integrals and a Julia and MATLAB simulation toolbox. *Numerical Algorithms* 93, 27--66 (2023). ([SpringerLink](https://doi.org/10.1007/s11075-022-01401-z)) ([arXiv](https://arxiv.org/abs/2201.08424))
 
 ## Talks
 
+- Milstein-type Schemes for SPDEs. *Analysis Seminar*, TU Delft, 14. Oct. 2025.
 - The Iterated Integral Expansion. *Young Summer School on Stochastic Analysis*, Växjö, 11.--14. June 2025. ([Slides](/assets/files/Kastner__The_Iterated_Integral_Expansion_Slides_YSSSA25.pdf))
 - Weak convergence of a Milstein scheme for SPDEs. *Young Summer School on Stochastic Analysis*, Växjö, 26.--29. June 2024. ([Slides](/assets/files/Kastner__Weak_convergence_of_a_Milstein_scheme_for_SPDEs_Slides_YSSSA2024.pdf))
 - Iterated Integrals &mdash; and how to simulate them. *18. Doktorand:innentreffen der Stochastik*, Heidelberg, 21.--23. Aug. 2023. ([Slides](/assets/files/Kastner__Iterated_Integrals_and_how_to_simulate_them_Slides_Doktorandinnentreffen2023.pdf))

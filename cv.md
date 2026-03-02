@@ -24,6 +24,7 @@
     - working with [Vitalii Konarovskyi](https://konarovskyi.de)
 - **Universität zu Lübeck**, Lübeck, Germany
     - Teaching Assistant, Apr. 2019 -- Okt. 2023
+    - working with [Andreas Rößler](https://www.math.uni-luebeck.de/mitarbeiter/roessler/)
 - **OptoMedical Technologies GmbH**, Lübeck, Germany
     - Software Engineer, Apr. 2016 -- Mar. 2019
     - development in C++ using the Qt Framework
