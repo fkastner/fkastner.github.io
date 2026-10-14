@@ -19,8 +19,11 @@
 
 ## Work Experience
 
+- **Universität zu Lübeck**, Lübeck, Germany
+    - Research Assistant, Apr. 2026 -- Sep. 2026
+    - working with [Andreas Rößler](https://www.math.uni-luebeck.de/mitarbeiter/pokalyuk/)
 - **University of Hamburg**, Hamburg, Germany
-    - Research Assistant, since Nov. 2023
+    - Research Assistant, Nov. 2023 -- Apr. 2026
     - working with [Vitalii Konarovskyi](https://konarovskyi.de)
 - **Universität zu Lübeck**, Lübeck, Germany
     - Teaching Assistant, Apr. 2019 -- Okt. 2023

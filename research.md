@@ -18,8 +18,8 @@ From this need arose the [LevyArea](/software#levy_area_simulation) package.
 
 ## Papers
 
-- Kastner, F., Klioba, K.: Milstein-type schemes for hyperbolic SPDEs. ([arXiv](https://arxiv.org/abs/2512.19647))
-- Kastner, F., Rößler, A.: An analysis of approximation algorithms for iterated stochastic integrals and a Julia and MATLAB simulation toolbox. *Numerical Algorithms* 93, 27--66 (2023). ([SpringerLink](https://doi.org/10.1007/s11075-022-01401-z)) ([arXiv](https://arxiv.org/abs/2201.08424))
+- Kastner, F., Klioba, K.: Milstein-type schemes for hyperbolic SPDEs. *ESAIM: M2AN* 60.5, 2551--2597 (2026). ([DOI](https://doi.org/10.1051/m2an/2026073)) ([arXiv](https://arxiv.org/abs/2512.19647))
+- Kastner, F., Rößler, A.: An analysis of approximation algorithms for iterated stochastic integrals and a Julia and MATLAB simulation toolbox. *Numerical Algorithms* 93, 27--66 (2023). ([DOI](https://doi.org/10.1007/s11075-022-01401-z)) ([arXiv](https://arxiv.org/abs/2201.08424))
 
 ## Talks
 
