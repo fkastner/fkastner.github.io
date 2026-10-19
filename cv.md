@@ -21,7 +21,7 @@
 
 - **Universität zu Lübeck**, Lübeck, Germany
     - Research Assistant, Apr. 2026 -- Sep. 2026
-    - working with [Andreas Rößler](https://www.math.uni-luebeck.de/mitarbeiter/pokalyuk/)
+    - working with [Cornelia Pokalyuk](https://www.math.uni-luebeck.de/mitarbeiter/pokalyuk/)
 - **University of Hamburg**, Hamburg, Germany
     - Research Assistant, Nov. 2023 -- Apr. 2026
     - working with [Vitalii Konarovskyi](https://konarovskyi.de)
